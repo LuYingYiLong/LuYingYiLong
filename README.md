@@ -1,16 +1,33 @@
-# 是绿影翼龙呀! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-我是一个独立游戏开发者，擅长使用[GODOT Engine](https://godotengine.org)
+<h3> 我是！绿影翼龙！ </h3>
 
-# 统计数据
+- 🤔 &nbsp; 探索Godot并开发游戏
+- 🌱 &nbsp; 学习并了解游戏设计，美术，策划，音乐
+- ✍️ &nbsp; 3D建模和像素画是我的业余爱好
+
+<h3> 🛠 &nbsp;技术栈</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![GDScript](https://img.shields.io/badge/-GDScript-333333?logo=godotengine&logoColor=%23478CBF)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+
+<br/>
+
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=LuYingYiLong&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=github"/>
-
-# 常用语言
 <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuYingYiLong&locale=cn&line_height=33&theme=&langs_count=5&layout=donut"/>
 
-# 正在进行...
-1. [BetterCodemao](https://github.com/LuYingYiLong/Better-Codemao)
-2. [Codemao-APIs-Docs](https://github.com/LuYingYiLong/Codemao-APIs-Docs)
-3. [MagicalLife](https://github.com/dihuang114514/magicallife)
+<br/>
 
-# 跟我合作？
-如果你想参与我们独立游戏开发，可以通过我的l_y_y_l@icloud.com联系我！
+<h3> 🤝🏻 &nbsp;与我联系 </h3>
+
+<p align="center">
+<a href="l_y_y_l@icloud.com"><img alt="Website" src="https://img.shields.io/badge/iCould-l_y_y_l%40icloud.com-0f81c2?style=flat-square&logo=icloud&logoColor=%233693F3"></a>
+</p>
