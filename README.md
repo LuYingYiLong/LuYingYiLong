@@ -23,13 +23,6 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<br/>
-
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=LuYingYiLong&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=github"/>
-<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuYingYiLong&locale=cn&line_height=33&theme=&langs_count=5&layout=donut"/>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;与我联系 </h3>
 
 <p align="center">
