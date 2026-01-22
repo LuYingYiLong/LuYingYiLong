@@ -7,7 +7,7 @@
 <h3> 🛠 &nbsp;技术栈</h3>
 
 - 💻 &nbsp;
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=%230175C2)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=%2300599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![GDScript](https://img.shields.io/badge/-GDScript-333333?logo=godotengine&logoColor=%23478CBF)
 - ⚙️ &nbsp;
