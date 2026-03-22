@@ -1,8 +1,6 @@
-<h3> 我是！绿影翼龙！ </h3>
-
-- 🤔 &nbsp; 探索Godot并开发游戏
-- 🌱 &nbsp; 学习并了解游戏设计，美术，策划，音乐
-- ✍️ &nbsp; 敲代码、3D建模和像素画是我的爱好
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello!+I'm+LuYingYiLong" alt="Typing SVG" /></a>
+</p>
 
 <h3> 🛠 &nbsp;技术栈</h3>
 
@@ -22,6 +20,10 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuYingYiLong&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=LuYingYiLong)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuYingYiLong&hide=contribs,prs)
 
 <h3> 🤝🏻 &nbsp;与我联系 </h3>
 
