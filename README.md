@@ -22,8 +22,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuYingYiLong&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=LuYingYiLong)](https://git.io/streak-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuYingYiLong&hide=contribs,prs)
 
 <h3> 🤝🏻 &nbsp;与我联系 </h3>
 
