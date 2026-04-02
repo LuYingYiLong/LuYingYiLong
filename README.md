@@ -22,9 +22,3 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuYingYiLong&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<h3> 🤝🏻 &nbsp;与我联系 </h3>
-
-<p align="center">
-<a href="l_y_y_l@icloud.com"><img alt="Website" src="https://img.shields.io/badge/iCould-l_y_y_l%40icloud.com-0f81c2?style=flat-square&logo=icloud&logoColor=%233693F3"></a>
-</p>
