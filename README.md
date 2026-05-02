@@ -68,3 +68,10 @@ I'm **LuYingYiLong**, a developer who enjoys building games, tools, and playful 
     />
   </a>
 </div>
+
+## Data Cards
+
+<p align="center">
+  <img src="https://stats.justsong.cn/api/bilibili/?id=703197503">
+  <img src="https://stats.justsong.cn/api/github?username=LuYingYiLong">
+</p>
